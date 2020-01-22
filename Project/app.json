@@ -1,0 +1,10 @@
+{
+  "name": "DataCollector",
+  "displayName": "DataCollector",
+  "primaryBg": "#8C1D1A", 
+  "rgbColor": "rgba(140,29,26,0.6)",
+  "secondaryBg": "#741613",
+  "color": "#ffffff",
+  "productName": "property",
+  "APP_API_BASE_URL": "https://properties.flexidatacenter.com/api/"
+}

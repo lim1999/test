@@ -1,0 +1,102 @@
+[
+    {
+        "id": "01",
+        "name": "Banteay Meanchey"
+    },
+    {
+        "id": "02",
+        "name": "Battambang"
+    },
+    {
+        "id": "03",
+        "name": "Kampong Cham"
+    },
+    {
+        "id": "04",
+        "name": "Kampong Chhnang"
+    },
+    {
+        "id": "05",
+        "name": "Kampong Speu"
+    },
+    {
+        "id": "06",
+        "name": "Kampong Thom"
+    },
+    {
+        "id": "07",
+        "name": "Kampot"
+    },
+    {
+        "id": "08",
+        "name": "Kandal"
+    },
+    {
+        "id": "23",
+        "name": "Kep"
+    },
+    {
+        "id": "09",
+        "name": "Koh Kong"
+    },
+    {
+        "id": "10",
+        "name": "Kratie"
+    },
+    {
+        "id": "11",
+        "name": "Mondul Kiri"
+    },
+    {
+        "id": "22",
+        "name": "Oddar Meanchey"
+    },
+    {
+        "id": "24",
+        "name": "Pailin"
+    },
+    {
+        "id": "12",
+        "name": "Phnom Penh"
+    },
+    {
+        "id": "18",
+        "name": "Preah Sihanouk"
+    },
+    {
+        "id": "13",
+        "name": "Preah Vihear"
+    },
+    {
+        "id": "14",
+        "name": "Prey Veng"
+    },
+    {
+        "id": "15",
+        "name": "Pursat"
+    },
+    {
+        "id": "16",
+        "name": "Ratanak Kiri"
+    },
+    {
+        "id": "17",
+        "name": "Siemreap"
+    },
+    {
+        "id": "19",
+        "name": "Stung Treng"
+    },
+    {
+        "id": "20",
+        "name": "Svay Rieng"
+    },
+    {
+        "id": "21",
+        "name": "Takeo"
+    },
+    {
+        "id": "25",
+        "name": "Tboung Khmum"
+    }
+]

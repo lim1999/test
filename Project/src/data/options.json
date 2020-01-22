@@ -1,0 +1,746 @@
+{
+    "property_types": [
+        {
+            "id": 29,
+            "name": ""
+        },
+        {
+            "id": 64,
+            "name": "1438sqm"
+        },
+        {
+            "id": 65,
+            "name": "450sqm"
+        },
+        {
+            "id": 9,
+            "name": "Agent Services"
+        },
+        {
+            "id": 28,
+            "name": "Alpine"
+        },
+        {
+            "id": 3,
+            "name": "Apartment"
+        },
+        {
+            "id": 68,
+            "name": "Appartment / Condominuim"
+        },
+        {
+            "id": 46,
+            "name": "Bars/Nightclubs"
+        },
+        {
+            "id": 24,
+            "name": "Borey"
+        },
+        {
+            "id": 67,
+            "name": "Building"
+        },
+        {
+            "id": 61,
+            "name": "Buildings"
+        },
+        {
+            "id": 4,
+            "name": "Commercial"
+        },
+        {
+            "id": 43,
+            "name": "CommercialLand"
+        },
+        {
+            "id": 44,
+            "name": "CommercialShophouse"
+        },
+        {
+            "id": 11,
+            "name": "Condo"
+        },
+        {
+            "id": 47,
+            "name": "Construction, Arch. & Interiors"
+        },
+        {
+            "id": 45,
+            "name": "Factory"
+        },
+        {
+            "id": 22,
+            "name": "Flat"
+        },
+        {
+            "id": 14,
+            "name": "Flat House"
+        },
+        {
+            "id": 60,
+            "name": "Flats"
+        },
+        {
+            "id": 32,
+            "name": "Food/Hospitality"
+        },
+        {
+            "id": 48,
+            "name": "Google Earth"
+        },
+        {
+            "id": 49,
+            "name": "Home appliances"
+        },
+        {
+            "id": 25,
+            "name": "Hotel"
+        },
+        {
+            "id": 37,
+            "name": "Hotel/Leisure"
+        },
+        {
+            "id": 1,
+            "name": "House"
+        },
+        {
+            "id": 72,
+            "name": "House/Flat"
+        },
+        {
+            "id": 40,
+            "name": "Industrial/Warehouse"
+        },
+        {
+            "id": 73,
+            "name": "Land\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t1Floor"
+        },
+        {
+            "id": 2,
+            "name": "Land"
+        },
+        {
+            "id": 31,
+            "name": "Land/Development"
+        },
+        {
+            "id": 6,
+            "name": "Landed Properties"
+        },
+        {
+            "id": 69,
+            "name": "Lands / Plots"
+        },
+        {
+            "id": 36,
+            "name": "Leisure/Entertainment"
+        },
+        {
+            "id": 10,
+            "name": "Link House"
+        },
+        {
+            "id": 38,
+            "name": "Medical/Consulting"
+        },
+        {
+            "id": 35,
+            "name": "Motel"
+        },
+        {
+            "id": 70,
+            "name": "Office Space"
+        },
+        {
+            "id": 18,
+            "name": "Offices"
+        },
+        {
+            "id": 23,
+            "name": "Other"
+        },
+        {
+            "id": 8,
+            "name": "Others"
+        },
+        {
+            "id": 71,
+            "name": "Petrol Station"
+        },
+        {
+            "id": 51,
+            "name": "Pool"
+        },
+        {
+            "id": 42,
+            "name": "project"
+        },
+        {
+            "id": 7,
+            "name": "Properties Wanted"
+        },
+        {
+            "id": 50,
+            "name": "Property"
+        },
+        {
+            "id": 15,
+            "name": "rental"
+        },
+        {
+            "id": 21,
+            "name": "residential"
+        },
+        {
+            "id": 27,
+            "name": "Restaurant"
+        },
+        {
+            "id": 26,
+            "name": "Retail"
+        },
+        {
+            "id": 33,
+            "name": "Retreat"
+        },
+        {
+            "id": 5,
+            "name": "Room"
+        },
+        {
+            "id": 12,
+            "name": "Serviced Apartment"
+        },
+        {
+            "id": 30,
+            "name": "ServicedApartment"
+        },
+        {
+            "id": 19,
+            "name": "Shophouse"
+        },
+        {
+            "id": 39,
+            "name": "Showrooms/Bulky Goods"
+        },
+        {
+            "id": 13,
+            "name": "Studio"
+        },
+        {
+            "id": 34,
+            "name": "Terrace"
+        },
+        {
+            "id": 62,
+            "name": "Townhouse"
+        },
+        {
+            "id": 17,
+            "name": "Twin Villa"
+        },
+        {
+            "id": 41,
+            "name": "Unit"
+        },
+        {
+            "id": 66,
+            "name": "Units"
+        },
+        {
+            "id": 16,
+            "name": "Villa"
+        },
+        {
+            "id": 63,
+            "name": "Villa/Land"
+        },
+        {
+            "id": 20,
+            "name": "Warehouse"
+        }
+    ],
+    "transaction_types": [
+        {
+            "id": 3,
+            "name": ""
+        },
+        {
+            "id": 5,
+            "name": "Assessed value"
+        },
+        {
+            "id": 4,
+            "name": "Other"
+        },
+        {
+            "id": 14,
+            "name": "reant"
+        },
+        {
+            "id": 2,
+            "name": "Rent"
+        },
+        {
+            "id": 13,
+            "name": "rent in siem reap"
+        },
+        {
+            "id": 18,
+            "name": "rent/sale"
+        },
+        {
+            "id": 1,
+            "name": "Sale"
+        },
+        {
+            "id": 15,
+            "name": "sale in chikreng  siem reap"
+        },
+        {
+            "id": 16,
+            "name": "sale in siem reap"
+        },
+        {
+            "id": 12,
+            "name": "Sale(Hard"
+        },
+        {
+            "id": 19,
+            "name": "Sale/Rent"
+        },
+        {
+            "id": 17,
+            "name": "Urgent"
+        }
+    ],
+    "users": [
+        {
+            "id": 79,
+            "name": "11"
+        },
+        {
+            "id": 82,
+            "name": "a@a.com"
+        },
+        {
+            "id": 81,
+            "name": "aaaa@aaa.com"
+        },
+        {
+            "id": 80,
+            "name": "asdasdasd"
+        },
+        {
+            "id": 43,
+            "name": "bunleng"
+        },
+        {
+            "id": 41,
+            "name": "BunthibSuon"
+        },
+        {
+            "id": 55,
+            "name": "Chea Tong"
+        },
+        {
+            "id": 39,
+            "name": "chhatbunleng"
+        },
+        {
+            "id": 54,
+            "name": "chhatbunleng"
+        },
+        {
+            "id": 59,
+            "name": "Chheav Sok"
+        },
+        {
+            "id": 77,
+            "name": "CHHEAV SOK"
+        },
+        {
+            "id": 56,
+            "name": "Chhim Sophin"
+        },
+        {
+            "id": 52,
+            "name": "Chhorn Nantha"
+        },
+        {
+            "id": 50,
+            "name": "Chim Panha"
+        },
+        {
+            "id": 53,
+            "name": "Hak Virith"
+        },
+        {
+            "id": 45,
+            "name": "Heang Davy"
+        },
+        {
+            "id": 66,
+            "name": "Heng Sophat"
+        },
+        {
+            "id": 19,
+            "name": "Hoem Seiha"
+        },
+        {
+            "id": 60,
+            "name": "Hok Faraong"
+        },
+        {
+            "id": 69,
+            "name": "Horn Chhany"
+        },
+        {
+            "id": 47,
+            "name": "investor"
+        },
+        {
+            "id": 57,
+            "name": "Kheav Sreypich"
+        },
+        {
+            "id": 42,
+            "name": "khun"
+        },
+        {
+            "id": 73,
+            "name": "Kimleang"
+        },
+        {
+            "id": 71,
+            "name": "Let Leak"
+        },
+        {
+            "id": 64,
+            "name": "Meng Sokeang"
+        },
+        {
+            "id": 65,
+            "name": "Minsao Piseth"
+        },
+        {
+            "id": 46,
+            "name": "Nantha chhorn"
+        },
+        {
+            "id": 58,
+            "name": "Panharith"
+        },
+        {
+            "id": 74,
+            "name": "POUNG Sovanna"
+        },
+        {
+            "id": 72,
+            "name": "Rasmey Phorn"
+        },
+        {
+            "id": 1,
+            "name": "Rothana Por"
+        },
+        {
+            "id": 78,
+            "name": "SANG Phearin"
+        },
+        {
+            "id": 48,
+            "name": "sao sreyouk"
+        },
+        {
+            "id": 38,
+            "name": "SaratSao"
+        },
+        {
+            "id": 76,
+            "name": "Satmekh"
+        },
+        {
+            "id": 7,
+            "name": "Sitha IN"
+        },
+        {
+            "id": 75,
+            "name": "socheatha tey"
+        },
+        {
+            "id": 2,
+            "name": "songheng"
+        },
+        {
+            "id": 62,
+            "name": "Taro"
+        },
+        {
+            "id": 51,
+            "name": "TENG Kimsan"
+        },
+        {
+            "id": 67,
+            "name": "tereaksmey"
+        },
+        {
+            "id": 70,
+            "name": "Thousokhim"
+        },
+        {
+            "id": 68,
+            "name": "Tith Sothy"
+        },
+        {
+            "id": 40,
+            "name": "Try Leangseng"
+        },
+        {
+            "id": 61,
+            "name": "uth vicheth"
+        },
+        {
+            "id": 49,
+            "name": "Yean Sokmono"
+        }
+    ],
+    "data_sources": [
+        {
+            "id": 2,
+            "name": "Agency"
+        },
+        {
+            "id": 3,
+            "name": "Broker"
+        },
+        {
+            "id": 1,
+            "name": "Owner"
+        }
+    ],
+    "title_deeds": [
+        {
+            "id": 5,
+            "name": "Hard"
+        },
+        {
+            "id": 1,
+            "name": "Hard (LMAP)"
+        },
+        {
+            "id": 3,
+            "name": "Hard (Sporadic Registration)"
+        },
+        {
+            "id": 9,
+            "name": "Khan"
+        },
+        {
+            "id": 2,
+            "name": "Letter of Possession Transfer"
+        },
+        {
+            "id": 10,
+            "name": "N/A"
+        },
+        {
+            "id": 7,
+            "name": "Sale and Purchase Agreement"
+        },
+        {
+            "id": 4,
+            "name": "Soft"
+        },
+        {
+            "id": 8,
+            "name": "Sporadic Registration (Certificate of Possession)"
+        },
+        {
+            "id": 6,
+            "name": "Strata Title"
+        }
+    ],
+    "shapes": [
+        {
+            "id": 2,
+            "name": "Irregular"
+        },
+        {
+            "id": 5,
+            "name": "Land"
+        },
+        {
+            "id": 7,
+            "name": "N/A"
+        },
+        {
+            "id": 1,
+            "name": "Rectangle"
+        },
+        {
+            "id": 6,
+            "name": "Regular"
+        },
+        {
+            "id": 3,
+            "name": "Square"
+        },
+        {
+            "id": 4,
+            "name": "Triangle"
+        }
+    ],
+    "topographies": [
+        {
+            "id": 1,
+            "name": "Level"
+        },
+        {
+            "id": 3,
+            "name": "Unfilled"
+        },
+        {
+            "id": 2,
+            "name": "Unlevelled"
+        }
+    ],
+    "current_uses": [
+        {
+            "id": 3,
+            "name": "Commercial"
+        },
+        {
+            "id": 6,
+            "name": "Industrial"
+        },
+        {
+            "id": 4,
+            "name": "Mixed Used"
+        },
+        {
+            "id": 1,
+            "name": "Residetial"
+        },
+        {
+            "id": 5,
+            "name": "Vacant Land"
+        },
+        {
+            "id": 2,
+            "name": "Warehouse"
+        }
+    ],
+    "building_types": [
+        {
+            "id": 6,
+            "name": "A Condo"
+        },
+        {
+            "id": 3,
+            "name": "A Four-Story flat"
+        },
+        {
+            "id": 4,
+            "name": "A hotel"
+        },
+        {
+            "id": 10,
+            "name": "A rice mill"
+        },
+        {
+            "id": 2,
+            "name": "A three-Story flat"
+        },
+        {
+            "id": 5,
+            "name": "A Villa"
+        },
+        {
+            "id": 9,
+            "name": "A warehouse"
+        },
+        {
+            "id": 8,
+            "name": "An Apartment"
+        },
+        {
+            "id": 7,
+            "name": "An office"
+        },
+        {
+            "id": 13,
+            "name": "Liked house"
+        },
+        {
+            "id": 15,
+            "name": "Mixed wood and concrete"
+        },
+        {
+            "id": 18,
+            "name": "n/a"
+        },
+        {
+            "id": 1,
+            "name": "None"
+        },
+        {
+            "id": 14,
+            "name": "penthouse"
+        },
+        {
+            "id": 17,
+            "name": "Private school"
+        },
+        {
+            "id": 11,
+            "name": "Retail shop"
+        },
+        {
+            "id": 12,
+            "name": "Shop house"
+        },
+        {
+            "id": 16,
+            "name": "Vacant land"
+        }
+    ],
+    "design_appeals": [
+        {
+            "id": 2,
+            "name": "Average"
+        },
+        {
+            "id": 3,
+            "name": "good"
+        },
+        {
+            "id": 1,
+            "name": "Poor"
+        }
+    ],
+    "qualities": [
+        {
+            "id": 2,
+            "name": "Average"
+        },
+        {
+            "id": 3,
+            "name": "good"
+        },
+        {
+            "id": 1,
+            "name": "Poor"
+        }
+    ],
+    "record_types": [
+        {
+            "id": 5,
+            "name": "Land"
+        },
+        {
+            "id": 4,
+            "name": "Residential"
+        }
+    ]
+}
