@@ -19,7 +19,7 @@
     "react-native-image-picker": "^1.1.0",
     "react-native-maps": "^0.25.0",
     "react-native-picker": "^4.3.7",
-    "react-native-reanimated": "^1.7.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-root-toast": "^3.1.2",
     "react-native-screens": "^2.0.0-alpha.25",
     "react-native-swipeout": "^2.3.6",
